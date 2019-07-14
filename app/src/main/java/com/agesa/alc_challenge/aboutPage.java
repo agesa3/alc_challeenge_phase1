@@ -18,8 +18,7 @@ public class aboutPage extends AppCompatActivity {
 
         web=findViewById(R.id.webview);
         web.setWebViewClient(new WebViewClient());
-        web.loadUrl("https://mmust.ac.ke");
-
+        web.loadUrl("https://andela.com/alc/");
         WebSettings webSettings=web.getSettings();
         webSettings.setJavaScriptEnabled(true);
         webSettings.getDefaultFontSize();
