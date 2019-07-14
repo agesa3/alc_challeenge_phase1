@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">alc_Challenge</string>
+
+    <string name="welcome">Welcome to ALC 4.0</string>
+    <string name="about">ABOUT ALC</string>
+    <string name="profile">MY PROFILE</string>
+
+
+    <string name="name">AGESA COLLINS</string>
+
+    <string name="track">Track:</string>
+    <string name="android">Android</string>
+
+    <string name="country">Country:</string>
+    <string name="kenya">Kenya</string>
+
+    <string name="email">Email:</string>
+    <string name="email_my_email">agesacollins4299@gmail.com</string>
+
+    <string name="phone">Phone Number:</string>
+    <string name="myNumber">0708593702</string>
+
+    <string name="slack">Slack Username:</string>
+    <string name="myUsername">Agesa Collins</string>
+</resources>
